@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Gif-Finder
+Application to find Gifs
+>>>>>>> 78980345d137a5c8a3d1231b4006ccd09925fb06
